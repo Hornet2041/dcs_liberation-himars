@@ -1,0 +1,9 @@
+class: Missile
+description: The Ground Launched Small Diameter Bomb (GLSDB) is a weapon made by Boeing and the Saab Group, who modified Boeing's GBU-39 Small Diameter Bomb (SDB) with the addition of a rocket motor. Initial testing began in 2015. The weapon is launched from ground-based missile systems such as the M270 Multiple Launch Rocket System and M142 HIMARS.
+introduced: 2023
+manufacturer: Boeing & Saab Motor Group
+origin: USA
+price: 150
+role: Precision Strike Artillery
+variants:
+  M142 HIMARS (GLSDB): {}
