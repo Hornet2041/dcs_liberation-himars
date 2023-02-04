@@ -360,6 +360,11 @@ class Faction:
             self.remove_vehicle("SAM SA-14 Strela-3 manpad")
             self.remove_vehicle("SAM SA-24 Igla-S manpad")
             self.remove_vehicle("Polyana-D4M1 C2 node")
+        # Misc Military Assets / HIMARS
+        if not mod_settings.himars:
+            self.remove_vehicle("M142_HIMARS_GLSDB")
+            self.remove_vehicle("M142_HIMARS_ATACMS")
+            self.remove_vehicle("M142_HIMARS_GMLRS")
 
     def remove_aircraft(self, name: str) -> None:
         for i in self.aircrafts:
