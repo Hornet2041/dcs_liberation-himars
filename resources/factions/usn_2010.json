@@ -30,8 +30,8 @@
     "M163 Vulcan Air Defense System"
   ],
   "artillery_units": [
-    "M270 Multiple Launch Rocket System"
-	"M142 HIMARS (GMLRS)"
+    "M270 Multiple Launch Rocket System",
+     "M142_HIMARS_GMLRS"
 	
   ],
   "logistics_units": [
