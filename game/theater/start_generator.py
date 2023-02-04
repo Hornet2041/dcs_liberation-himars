@@ -62,6 +62,7 @@ class ModSettings:
     frenchpack: bool = False
     high_digit_sams: bool = False
     ov10a_bronco: bool = False
+    himars: bool = False
 
 
 class GameGenerator:
